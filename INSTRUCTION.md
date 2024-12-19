@@ -2,7 +2,7 @@
 http://localhost:8080/
 
 ##My Docker Hub
-https://hub.docker.com/
+https://hub.docker.com/repository/docker/vovalogic/todoapp/general
 
 ##Build and Tag the MySQL Image
 docker build -t mysql-local:1.0.0 -f Dockerfile.mysql .
